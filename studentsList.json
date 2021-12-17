@@ -1,0 +1,22 @@
+[
+    {
+        "studentFirstName": "Kailash Nath",
+        "collegeName": "IIT",
+        "location": "Mumbai"
+    },
+    {
+        "studentFirstName": "Kailash Chandra",
+        "collegeName": "IIT",
+        "location": "Mumbai"
+    },
+    {
+        "studentFirstName": "Some Random Name",
+        "collegeName": "IIT",
+        "location": "Mumbai"
+    },
+    {
+        "studentFirstName": "Ranchoddas",
+        "collegeName": "IIT",
+        "location": "Mumbai"
+    }
+]
